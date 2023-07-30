@@ -1,2 +1,2 @@
 # Content
-destinado a armazenar os códigos e projetos que eu uso de conteúdo para social media e youtube
+Repositório destinado a armazenar os códigos e projetos que eu uso de conteúdo para social media e youtube
